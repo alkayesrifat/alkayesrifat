@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Al Kayes Rifat</h1>
 <h3 align="center">A passionate Competitive Programmer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/alkayesrifat/alkayesrifat/blob/main/tenor.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alkayesrifat&label=Profile%20views&color=0e75b6&style=flat" alt="alkayesrifat" /> </p>
 
