@@ -1,4 +1,4 @@
-![Header](https://github.com/alkayesrifat/alkayesrifat/blob/main/Screenshot%202024-12-27%20114358.png)
+
 <h1 align="center">Hi 👋, I'm Al Kayes Rifat</h1>
 <h3 align="center">A passionate Competitive Programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/alkayesrifat/alkayesrifat/blob/main/tenor.gif">
